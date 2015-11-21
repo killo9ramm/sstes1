@@ -1,0 +1,5 @@
+C:\Projects\SSTest1\SSTest1\bin\Debug\SSTest1.exe
+C:\Projects\SSTest1\SSTest1\bin\Debug\SSTest1.pdb
+C:\Projects\SSTest1\SSTest1\obj\Debug\SSTest1.csprojResolveAssemblyReference.cache
+C:\Projects\SSTest1\SSTest1\obj\Debug\SSTest1.exe
+C:\Projects\SSTest1\SSTest1\obj\Debug\SSTest1.pdb

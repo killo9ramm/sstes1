@@ -1,0 +1,7 @@
+C:\Projects\SSTest1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Projects\SSTest1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Projects\SSTest1\UnitTestProject1\bin\Debug\SSTest1.exe
+C:\Projects\SSTest1\UnitTestProject1\bin\Debug\SSTest1.pdb
+C:\Projects\SSTest1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Projects\SSTest1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Projects\SSTest1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
